@@ -1,0 +1,138 @@
+1;;2019-01-01;1;New Year's Day
+2;;2019-01-05;1;Weekend
+3;;2019-01-06;1;Minggu
+4;;2019-01-12;1;Weekend
+5;;2019-01-13;1;Minggu
+6;;2019-01-19;1;Weekend
+7;;2019-01-20;1;Minggu
+8;;2019-01-26;1;Weekend
+9;;2019-01-27;1;Minggu
+10;;2019-02-02;1;Weekend
+11;;2019-02-03;1;Minggu
+12;;2019-02-05;1;Chinese New Year
+13;;2019-02-09;1;Weekend
+14;;2019-02-10;1;Minggu
+15;;2019-02-16;1;Weekend
+16;;2019-02-17;1;Minggu
+17;;2019-02-23;1;Weekend
+18;;2019-02-24;1;Minggu
+19;;2019-03-02;1;Weekend
+20;;2019-03-03;1;Minggu
+21;;2019-03-07;1;Bali Hindu New Year
+22;;2019-03-09;1;Weekend
+23;;2019-03-10;1;Minggu
+24;;2019-03-16;1;Weekend
+25;;2019-03-17;1;Minggu
+26;;2019-03-23;1;Weekend
+27;;2019-03-24;1;Minggu
+28;;2019-03-30;1;Weekend
+29;;2019-03-31;1;Minggu
+30;;2019-04-03;1;Isra Mi'raj
+31;;2019-04-06;1;Weekend
+32;;2019-04-07;1;Minggu
+33;;2019-04-13;1;Weekend
+34;;2019-04-14;1;Minggu
+35;;2019-04-19;1;Good Friday
+36;;2019-04-20;1;Weekend
+37;;2019-04-21;1;Minggu
+38;;2019-04-27;1;Weekend
+39;;2019-04-28;1;Minggu
+40;;2019-05-01;1;Labour Day
+41;;2019-05-04;1;Weekend
+42;;2019-05-05;1;Minggu
+43;;2019-05-11;1;Weekend
+44;;2019-05-12;1;Minggu
+45;;2019-05-18;1;Weekend
+46;;2019-05-19;1;Waisak Day
+47;;2019-05-25;1;Weekend
+48;;2019-05-26;1;Minggu
+49;;2019-05-30;1;Ascension Day of Jesus Christ
+50;;2019-06-01;1;Pancasila Day
+51;;2019-06-02;1;Minggu
+52;;2019-06-03;1;Lebaran Holiday
+53;;2019-06-04;1;Lebaran Holiday
+54;;2019-06-05;1;Hari Raya Idul Fitri
+55;;2019-06-06;1;Hari Raya Idul Fitri
+56;;2019-06-07;1;Lebaran Holiday
+57;;2019-06-08;1;Weekend
+58;;2019-06-09;1;Minggu
+59;;2019-06-15;1;Weekend
+60;;2019-06-16;1;Minggu
+61;;2019-06-22;1;Weekend
+62;;2019-06-23;1;Minggu
+63;;2019-06-29;1;Weekend
+64;;2019-06-30;1;Minggu
+65;;2019-07-06;1;Weekend
+66;;2019-07-07;1;Minggu
+67;;2019-07-13;1;Weekend
+68;;2019-07-14;1;Minggu
+69;;2019-07-20;1;Weekend
+70;;2019-07-21;1;Minggu
+71;;2019-07-27;1;Weekend
+72;;2019-07-28;1;Minggu
+73;;2019-08-03;1;Weekend
+74;;2019-08-04;1;Minggu
+75;;2019-08-10;1;Weekend
+76;;2019-08-11;1;Idul Adha
+77;;2019-08-17;1;Independence Day
+78;;2019-08-18;1;Minggu
+79;;2019-08-24;1;Weekend
+80;;2019-08-25;1;Minggu
+81;;2019-08-31;1;Weekend
+82;;2019-09-01;1;Islamic New Year
+83;;2019-09-07;1;Weekend
+84;;2019-09-08;1;Minggu
+85;;2019-09-14;1;Weekend
+86;;2019-09-15;1;Minggu
+87;;2019-09-21;1;Weekend
+88;;2019-09-22;1;Minggu
+89;;2019-09-28;1;Weekend
+90;;2019-09-29;1;Minggu
+91;;2019-10-05;1;Weekend
+92;;2019-10-06;1;Minggu
+93;;2019-10-12;1;Weekend
+94;;2019-10-13;1;Minggu
+95;;2019-10-19;1;Weekend
+96;;2019-10-20;1;Minggu
+97;;2019-10-26;1;Weekend
+98;;2019-10-27;1;Minggu
+99;;2019-11-02;1;Weekend
+100;;2019-11-03;1;Minggu
+101;;2019-11-09;1;Prophet Muhammad's Birthday
+102;;2019-11-10;1;Minggu
+103;;2019-11-16;1;Weekend
+104;;2019-11-17;1;Minggu
+105;;2019-11-23;1;Weekend
+106;;2019-11-24;1;Minggu
+107;;2019-11-30;1;Weekend
+108;;2019-12-01;1;Minggu
+109;;2019-12-07;1;Weekend
+110;;2019-12-08;1;Minggu
+111;;2019-12-14;1;Weekend
+112;;2019-12-15;1;Minggu
+113;;2019-12-21;1;Weekend
+114;;2019-12-22;1;Minggu
+115;;2019-12-24;1;Christmas Holiday
+116;;2019-12-25;1;Christmas Day
+117;;2019-12-28;1;Weekend
+118;;2019-12-29;1;Minggu
+119;;2020-01-01;1;New Year's Day
+120;;2020-01-25;1;Chinese New Year
+121;;2020-03-22;1;Isra Mi'raj
+122;;2020-03-25;1;Bali Hindu New Year
+123;;2020-04-10;1;Good Friday
+124;;2020-05-01;1;Labour Day
+125;;2020-05-07;1;Waisak Day
+126;;2020-05-21;1;Ascension Day of Jesus Christ
+127;;2020-05-22;1;Lebaran Holiday
+128;;2020-05-24;1;Hari Raya Idul Fitri
+129;;2020-05-25;1;Hari Raya Idul Fitri
+130;;2020-05-26;1;Lebaran Holiday
+131;;2020-05-27;1;Lebaran Holiday
+132;;2020-06-01;1;Pancasila Day
+133;;2020-07-31;1;Idul Adha
+134;;2020-08-17;1;Independence Day
+135;;2020-08-20;1;Islamic New Year
+136;;2020-10-29;1;Prophet Muhammad's Birthday
+137;;2020-12-24;1;Christmas Holiday
+138;;2020-12-25;1;Christmas Day
